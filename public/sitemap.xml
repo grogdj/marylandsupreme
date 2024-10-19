@@ -2,16 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marylandsupreme/post/</loc>
-    <lastmod>2024-10-19T09:48:04+01:00</lastmod>
-  </url><url>
-    <loc>https://marylandsupreme/post/welcome/welcome/</loc>
-    <lastmod>2024-10-19T09:48:04+01:00</lastmod>
-  </url><url>
-    <loc>https://marylandsupreme/</loc>
-    <lastmod>2024-10-19T09:48:04+01:00</lastmod>
+    <loc>https://marylandsupreme/categories/bw/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://marylandsupreme/categories/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marylandsupreme/categories/collection/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marylandsupreme/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marylandsupreme/categories/miami/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marylandsupreme/miami/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marylandsupreme/categories/colors/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marylandsupreme/categories/turkey/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marylandsupreme/turkey/</loc>
+    <lastmod>2023-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://marylandsupreme/about/</loc>
   </url><url>
     <loc>https://marylandsupreme/tags/</loc>
   </url>

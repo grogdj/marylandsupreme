@@ -1,10 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Categories on Welcome to Maryland Supreme</title>
-        <link>https://marylandsupreme/categories/</link>
-        <description>Recent content in Categories on Welcome to Maryland Supreme</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="https://marylandsupreme/categories/index.xml" rel="self" type="application/rss+xml" />
-    </channel>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://marylandsupreme/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://marylandsupreme/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B&amp;w</title>
+      <link>https://marylandsupreme/categories/bw/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://marylandsupreme/categories/bw/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Collection</title>
+      <link>https://marylandsupreme/categories/collection/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://marylandsupreme/categories/collection/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Miami</title>
+      <link>https://marylandsupreme/categories/miami/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://marylandsupreme/categories/miami/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Colors</title>
+      <link>https://marylandsupreme/categories/colors/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://marylandsupreme/categories/colors/</guid><description>&lt;no value&gt;</description></item>
+    <item>
+      <title>Turkey</title>
+      <link>https://marylandsupreme/categories/turkey/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>https://marylandsupreme/categories/turkey/</guid><description>&lt;no value&gt;</description></item>
+  </channel>
 </rss>
