@@ -8,4 +8,9 @@ featured: true
 type: gallery
 sort_by: Name
 categories: ["turkey", "colors","collection"]
+resources:
+  - src: 1.jpeg
+    title: Image 1
+  - src: 2.jpeg
+    title: Image 2 text
 ---
