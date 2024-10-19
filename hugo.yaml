@@ -1,0 +1,15 @@
+baseURL: 'https://marylandsupreme/'
+languageCode: 'en-us'
+title: 'Welcome to Maryland Supreme'
+theme: 'stack'
+
+
+menu:
+  social:
+    - identifier: instagram
+      name: "Instagram"
+      url: "/"
+      weight: 10
+      params:
+        icon: home
+        newTab: true  

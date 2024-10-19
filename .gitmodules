@@ -1,0 +1,6 @@
+[submodule "marylandsupreme/themes/stack"]
+	path = marylandsupreme/themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack
+[submodule "themes/icons"]
+	path = themes/icons
+	url = https://github.com/hugomods/icons
