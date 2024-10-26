@@ -32,5 +32,13 @@ resources:
   - src: 6-a-wall.JPG
     title: Branches diverge (acrylic - 21 x 14.8 cm)
   - src: 6-back-wall.JPG
-    title: Branches diverge - backside (acrylic - 21 x 14.8 cm)    
+    title: Branches diverge - backside (acrylic - 21 x 14.8 cm)
+  - src: 7-a-wall.JPG
+    title: Interdimensional waves (acrylic - 21 x 14.8 cm)
+  - src: 7-back-wall.JPG
+    title: Interdimensional waves - backside (acrylic - 21 x 14.8 cm)
+  - src: 8-a-wall.JPG
+    title: Well-seasoned traveller (acrylic - 21 x 14.8 cm)
+  - src: 8-back-wall.JPG
+    title: Well-seasoned traveller - backside (acrylic - 21 x 14.8 cm)      
 ---
