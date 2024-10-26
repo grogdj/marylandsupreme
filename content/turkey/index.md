@@ -28,5 +28,9 @@ resources:
   - src: 5-a-wall.JPG
     title: Collapsing spiral (acrylic - 21 x 14.8 cm)
   - src: 5-back-wall.JPG
-    title: Collapsing spiral - backside (acrylic - 21 x 14.8 cm)  
+    title: Collapsing spiral - backside (acrylic - 21 x 14.8 cm)
+  - src: 6-a-wall.JPG
+    title: Branches diverge (acrylic - 21 x 14.8 cm)
+  - src: 6-back-wall.JPG
+    title: Branches diverge - backside (acrylic - 21 x 14.8 cm)    
 ---
