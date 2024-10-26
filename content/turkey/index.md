@@ -25,4 +25,8 @@ resources:
     title: Patience & long hours (acrylic - 21 x 14.8 cm)
   - src: 4-back-wall.JPG
     title: Patience & long hours - backside (acrylic - 21 x 14.8 cm)  
+  - src: 5-a-wall.JPG
+    title: Collapsing spiral (acrylic - 21 x 14.8 cm)
+  - src: 5-back-wall.JPG
+    title: Collapsing spiral - backside (acrylic - 21 x 14.8 cm)  
 ---
