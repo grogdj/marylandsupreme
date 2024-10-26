@@ -21,4 +21,8 @@ resources:
     title: No meaning = Survial (acrylic - 21 x 14.8 cm)
   - src: 3-back-wall.JPG
     title: No meaning = Survial - backside (acrylic - 21 x 14.8 cm)
+  - src: 4-a-wall.JPG
+    title: Patience & long hours (acrylic - 21 x 14.8 cm)
+  - src: 4-back-wall.JPG
+    title: Patience & long hours - backside (acrylic - 21 x 14.8 cm)  
 ---
