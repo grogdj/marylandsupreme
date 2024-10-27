@@ -48,5 +48,9 @@ resources:
   - src: 10-a-wall.JPG
     title: A brand new patriotic feeling (acrylic - 21 x 14.8 cm)
   - src: 10-back-wall.JPG
-    title: A brand new patriotic feeling - backside (acrylic - 21 x 14.8 cm)         
+    title: A brand new patriotic feeling - backside (acrylic - 21 x 14.8 cm)
+  - src: 11-a-wall.JPG
+    title: Fact-based missunderstandings (acrylic - 21 x 14.8 cm)
+  - src: 11-back-wall.JPG
+    title: Fact-based missunderstandings - backside (acrylic - 21 x 14.8 cm)           
 ---
