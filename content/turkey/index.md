@@ -1,7 +1,7 @@
 ---
 date: 2024-03-01
 menus: "main"
-featured_image: 1-a-wall.jpeg
+featured_image: 1-a-wall.JPG
 title: Turkey's Collection 2024
 description: Collection started in Istambul, Turkey around April/May 2024
 featured: true
