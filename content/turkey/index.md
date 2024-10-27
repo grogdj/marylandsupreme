@@ -40,5 +40,13 @@ resources:
   - src: 8-a-wall.JPG
     title: Well-seasoned traveller (acrylic - 21 x 14.8 cm)
   - src: 8-back-wall.JPG
-    title: Well-seasoned traveller - backside (acrylic - 21 x 14.8 cm)      
+    title: Well-seasoned traveller - backside (acrylic - 21 x 14.8 cm)
+  - src: 9-a-wall.JPG
+    title: Coping with anxiety musts (acrylic - 21 x 14.8 cm)
+  - src: 9-back-wall.JPG
+    title: Coping with anxiety musts - backside (acrylic - 21 x 14.8 cm)
+  - src: 10-a-wall.JPG
+    title: A brand new patriotic feeling (acrylic - 21 x 14.8 cm)
+  - src: 10-back-wall.JPG
+    title: A brand new patriotic feeling - backside (acrylic - 21 x 14.8 cm)         
 ---
