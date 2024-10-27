@@ -61,4 +61,32 @@ resources:
     title: Experience of the wise (acrylic - 21 x 14.8 cm)
   - src: 13-back-wall.JPG
     title: Experience of the wise - backside (acrylic - 21 x 14.8 cm)
+  - src: 14-a-wall.JPG
+    title: Missing frozen pixel (acrylic - 21 x 14.8 cm)
+  - src: 14-back-wall.JPG
+    title: Missing frozen pixel - backside (acrylic - 21 x 14.8 cm)  
+  - src: 15-a-wall.JPG
+    title: Crunch unfiltered data (acrylic - 21 x 14.8 cm)
+  - src: 15-back-wall.JPG
+    title: Crunch unfiltered data - backside (acrylic - 21 x 14.8 cm)    
+  - src: 16-a-wall.JPG
+    title: Ensured satisfaction (acrylic - 21 x 14.8 cm)
+  - src: 16-back-wall.JPG
+    title: Ensured satisfaction - backside (acrylic - 21 x 14.8 cm)
+  - src: 17-a-wall.JPG
+    title: New inventions / apparatus (acrylic - 21 x 14.8 cm)
+  - src: 17-back-wall.JPG
+    title: New inventions / apparatus - backside (acrylic - 21 x 14.8 cm)
+  - src: 18-a-wall.JPG
+    title: Night mist (acrylic - 21 x 14.8 cm)
+  - src: 18-back-wall.JPG
+    title: Night mist - backside (acrylic - 21 x 14.8 cm)
+  - src: 19-a-wall.JPG
+    title: Motion eq circular flow (acrylic - 21 x 14.8 cm)
+  - src: 19-back-wall.JPG
+    title: Motion eq circular flow - backside (acrylic - 21 x 14.8 cm)
+  - src: 20-a-wall.JPG
+    title: The background sound of the city (acrylic - 21 x 14.8 cm)
+  - src: 20-back-wall.JPG
+    title: The background sound of the city - backside (acrylic - 21 x 14.8 cm)                    
 ---
