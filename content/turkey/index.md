@@ -53,4 +53,12 @@ resources:
     title: Fact-based missunderstandings (acrylic - 21 x 14.8 cm)
   - src: 11-back-wall.JPG
     title: Fact-based missunderstandings - backside (acrylic - 21 x 14.8 cm)           
+  - src: 12-a-wall.JPG
+    title: Calculations (acrylic - 21 x 14.8 cm)
+  - src: 12-back-wall.JPG
+    title: Calculations - backside (acrylic - 21 x 14.8 cm)
+  - src: 13-a-wall.JPG
+    title: Experience of the wise (acrylic - 21 x 14.8 cm)
+  - src: 13-back-wall.JPG
+    title: Experience of the wise - backside (acrylic - 21 x 14.8 cm)
 ---
