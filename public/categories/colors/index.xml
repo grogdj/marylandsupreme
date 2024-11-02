@@ -2,19 +2,28 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Colors on </title>
-    <link>https://marylandsupreme/categories/colors/</link>
+    <link>http://localhost:1313/categories/colors/</link>
     <description>Recent content in Colors on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://marylandsupreme/categories/colors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/colors/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Turkey&#39;s Collection 2024</title>
-      <link>https://marylandsupreme/turkey/</link>
+      <title>Istambul&#39;s Collection 2024</title>
+      <link>http://localhost:1313/istambul/</link>
       <pubDate>Fri, 01 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>https://marylandsupreme/turkey/</guid><media:content url="https://marylandsupreme/turkey/1_hu4c53a2cd5b0b287aa35a032f27100d58_136857_900x600_fill_q75_box_smart1.jpeg" type="image/jpeg"/>
+      <guid>http://localhost:1313/istambul/</guid><media:content url="http://localhost:1313/istambul/1-a-wall_hu8b8021686a0fad7bcfce0e65aa22ced2_251416_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://marylandsupreme/turkey/1_hu4c53a2cd5b0b287aa35a032f27100d58_136857_900x600_fill_q75_box_smart1.jpeg&quot; /&gt;
-          &lt;p&gt;Collection created in Istambul around March/April/May&lt;/p&gt;
+          &lt;img src=&quot;http://localhost:1313/istambul/1-a-wall_hu8b8021686a0fad7bcfce0e65aa22ced2_251416_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;Collection started in Istambul, Turkey around April/May 2024&lt;/p&gt;
+        </description></item>
+    <item>
+      <title>Shanghai&#39;s Collection 2023</title>
+      <link>http://localhost:1313/shanghai/</link>
+      <pubDate>Mon, 01 May 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shanghai/</guid><media:content url="http://localhost:1313/shanghai/1_huda903315e6fdd97ca953382eee11cc9b_334227_900x600_fill_q75_box_smart1.JPG" type="image/jpeg"/>
+        <description>
+          &lt;img src=&quot;http://localhost:1313/shanghai/1_huda903315e6fdd97ca953382eee11cc9b_334227_900x600_fill_q75_box_smart1.JPG&quot; /&gt;
+          &lt;p&gt;Collection started in Shanghai, China in 2023&lt;/p&gt;
         </description></item>
   </channel>
 </rss>

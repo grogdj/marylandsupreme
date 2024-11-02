@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>B&amp;w on </title>
-    <link>https://marylandsupreme/categories/bw/</link>
+    <link>http://localhost:1313/categories/bw/</link>
     <description>Recent content in B&amp;w on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://marylandsupreme/categories/bw/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/bw/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Miami&#39;s Collection 2024</title>
-      <link>https://marylandsupreme/miami/</link>
+      <link>http://localhost:1313/miami/</link>
       <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://marylandsupreme/miami/</guid><media:content url="https://marylandsupreme/miami/1_huf581ab6bca8584033ef169511a278c30_100197_900x600_fill_q75_box_smart1.jpeg" type="image/jpeg"/>
+      <guid>http://localhost:1313/miami/</guid><media:content url="http://localhost:1313/miami/1_huf581ab6bca8584033ef169511a278c30_100197_900x600_fill_q75_box_smart1.jpeg" type="image/jpeg"/>
         <description>
-          &lt;img src=&quot;https://marylandsupreme/miami/1_huf581ab6bca8584033ef169511a278c30_100197_900x600_fill_q75_box_smart1.jpeg&quot; /&gt;
+          &lt;img src=&quot;http://localhost:1313/miami/1_huf581ab6bca8584033ef169511a278c30_100197_900x600_fill_q75_box_smart1.jpeg&quot; /&gt;
           &lt;p&gt;&lt;no value&gt;&lt;/p&gt;
         </description></item>
   </channel>

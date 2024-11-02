@@ -2,35 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://marylandsupreme/categories/bw/</loc>
+    <loc>http://localhost:1313/categories/bw/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/categories/collection/</loc>
+    <loc>http://localhost:1313/categories/collection/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/categories/miami/</loc>
+    <loc>http://localhost:1313/categories/miami/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/miami/</loc>
+    <loc>http://localhost:1313/miami/</loc>
     <lastmod>2024-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/categories/colors/</loc>
+    <loc>http://localhost:1313/categories/colors/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/categories/turkey/</loc>
+    <loc>http://localhost:1313/istambul/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/turkey/</loc>
+    <loc>http://localhost:1313/categories/turkey/</loc>
     <lastmod>2024-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/about/</loc>
+    <loc>http://localhost:1313/categories/china/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://marylandsupreme/tags/</loc>
+    <loc>http://localhost:1313/categories/postcard/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/shanghai/</loc>
+    <lastmod>2023-05-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
