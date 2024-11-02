@@ -1,6 +1,6 @@
 ---
 title: Maryland Supreme's collections
-featured_image: maryland-supreme-2024.jpeg 
+featured_image: maryland-supreme-wip.JPG
 menus:
   main:
     name: Home
