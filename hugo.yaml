@@ -3,7 +3,9 @@ languageCode: 'en-us'
 title: ''
 theme: 'gallery'
 
-params: 
+params:
+  imaging: 
+    quality: 100 
   socialIcons: 
     instagram: https://www.instagram.com/marylandsupreme/ 
     youtube: https://soundcloud.com/marylandsupreme
