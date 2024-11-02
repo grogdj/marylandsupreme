@@ -25,6 +25,10 @@ resources:
     title: Visual cues (acrylic - 13 x 13 cm)  
   - src: 7.JPG
     title: Visual Anagram 5/10 -| (acrylic - 13 x 13 cm)
-  
-  
+  - src: 8.JPG
+    title: Cosmopolitan People Skyline \\#2 (CPS2) (acrylic - 13 x 13 cm)
+  - src: 9.JPG
+    title: Cosmopolitan People Skyline \\#1 (CPS) (acrylic - 13 x 13 cm)
+  - src: 10.JPG
+    title: Time fluctuations when you are abroad (acrylic - 13 x 13 cm)  
 ---
