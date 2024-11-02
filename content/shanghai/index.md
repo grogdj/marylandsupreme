@@ -30,5 +30,9 @@ resources:
   - src: 9.JPG
     title: Cosmopolitan People Skyline \\#1 (CPS) (acrylic - 13 x 13 cm)
   - src: 10.JPG
-    title: Time fluctuations when you are abroad (acrylic - 13 x 13 cm)  
+    title: Time fluctuations when you are abroad (acrylic - 13 x 13 cm)
+  - src: 11.JPG
+    title: Singing in the spot (acrylic - 13 x 13 cm)
+  - src: 12.JPG
+    title: Meaning translation, the tools we use to decode (acrylic - 13 x 13 cm)      
 ---
