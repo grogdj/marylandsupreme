@@ -7,6 +7,8 @@ description: Collection started in Istambul, Turkey around April/May 2024
 featured: true
 type: gallery
 sort_by: Name
+params:
+  theme: light
 categories: ["turkey", "colors","collection"]
 resources:
   - src: 1-a-wall.JPG
