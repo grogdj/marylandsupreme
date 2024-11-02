@@ -34,5 +34,11 @@ resources:
   - src: 11.JPG
     title: Singing in the spot (acrylic - 13 x 13 cm)
   - src: 12.JPG
-    title: Meaning translation, the tools we use to decode (acrylic - 13 x 13 cm)      
+    title: Meaning translation, the tools we use to decode (acrylic - 13 x 13 cm)
+  - src: 13.JPG
+    title: Surrounded by symbols (acrylic - 13 x 13 cm) 
+  - src: 14.JPG
+    title: High-life, polyglot societies (acrylic - 13 x 13 cm)
+  - src: 15.JPG
+    title: Under the waters (acrylic - 13 x 13 cm)            
 ---
