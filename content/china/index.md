@@ -19,5 +19,8 @@ resources:
     title: The mysterious story of the ancient (acrylic - 13 x 13 cm)
   - src: 4.JPG
     title: Confused, night time (acrylic - 13 x 13 cm)    
-                
+  - src: 5.JPG
+    title: Are you talking to me? I am not sure (acrylic - 13 x 13 cm)                  
+  - src: 6.JPG
+    title: Visual cues (acrylic - 13 x 13 cm)                            
 ---
