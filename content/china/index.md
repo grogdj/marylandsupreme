@@ -3,8 +3,8 @@ date: 2023-05-01
 menus: "main"
 featured_image: 1.JPG
 title: China's Collection 2023
-description: Collection started in Shanhai, China in 2023
-featured: true
+description: Collection started in Shanghai, China in 2023
+featured: false
 type: gallery
 sort_by: Name
 params:
@@ -16,6 +16,8 @@ resources:
   - src: 2.JPG
     title: New terrains (acrylic - 13 x 13 cm)  
   - src: 3.JPG
-    title: The mysterious story of the ancient (acrylic - 13 x 13 cm)  
+    title: The mysterious story of the ancient (acrylic - 13 x 13 cm)
+  - src: 4.JPG
+    title: Confused, night time (acrylic - 13 x 13 cm)    
                 
 ---
