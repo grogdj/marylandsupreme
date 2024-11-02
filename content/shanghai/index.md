@@ -2,7 +2,7 @@
 date: 2023-05-01
 menus: "main"
 featured_image: 1.JPG
-title: China's Collection 2023
+title: Shanghai's Collection 2023
 description: Collection started in Shanghai, China in 2023
 featured: false
 type: gallery
