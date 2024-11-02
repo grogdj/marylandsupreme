@@ -40,5 +40,15 @@ resources:
   - src: 14.JPG
     title: High-life, polyglot societies (acrylic - 13 x 13 cm)
   - src: 15.JPG
-    title: Under the waters (acrylic - 13 x 13 cm)            
+    title: Under the waters (acrylic - 13 x 13 cm) 
+  - src: 16.JPG
+    title: Faraway tango, from sound to vibration (acrylic - 13 x 13 cm) 
+  - src: 17.JPG
+    title: The impossible physics of nature (acrylic - 13 x 13 cm)   
+  - src: 18.JPG
+    title: Mixed media, slow comms (acrylic - 13 x 13 cm)
+  - src: 19.JPG
+    title: Push and shoves, giving space (acrylic - 13 x 13 cm)
+  - src: 20.JPG
+    title: Past perfect, that's the question (acrylic - 13 x 13 cm)                
 ---
