@@ -12,7 +12,19 @@ params:
 categories: ["amsterdam", "colors", "red", "black", "yellow", "collection"]
 resources:
   - src: 1.JPG
-    title: 6 dialogs on red and yellow (acrylic -  29.7 x 21 cm)  
+    title: 6 dialogs on red and yellow 1 (acrylic -  29.7 x 21 cm)  
   - src: 2.JPG
-    title: 6 dialogs on red and yellow 2 (acrylic -  29.7 x 21 cm)                
+    title: 6 dialogs on red and yellow 2 (acrylic -  29.7 x 21 cm)
+  - src: 3.JPG
+    title: 6 dialogs on red and yellow 3 (acrylic -  29.7 x 21 cm)
+  - src: 4.JPG
+    title: 6 dialogs on red and yellow 4 (acrylic -  29.7 x 21 cm)
+  - src: 5.JPG
+    title: 6 dialogs on red and yellow 5 (acrylic -  29.7 x 21 cm)
+  - src: 6.JPG
+    title: 6 dialogs on red and yellow 6 (acrylic -  29.7 x 21 cm)
+  - src: 7.JPG
+    title: 6 dialogs on red and yellow 7 (acrylic -  29.7 x 21 cm)        
+  - src: 8.JPG
+    title: 6 odd dialogs (acrylic -  29.7 x 21 cm)          
 ---
