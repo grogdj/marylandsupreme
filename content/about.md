@@ -7,6 +7,6 @@ menu:
     weight: 90
 ---
 
-![Maryland Supreme](/images/maryland-supreme-wip.JPG)
+![Maryland Supreme](/images/ms.JPG)
 
 All drawings by Maryland Supreme 2025. Drop me a message on [Instagram](https://www.instagram.com/marylandsupreme/)

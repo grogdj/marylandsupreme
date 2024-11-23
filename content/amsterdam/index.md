@@ -13,5 +13,6 @@ categories: ["amsterdam", "colors", "red", "black", "yellow", "collection"]
 resources:
   - src: 1.JPG
     title: 6 dialogs on red and yellow (acrylic -  29.7 x 21 cm)  
-                  
+  - src: 2.JPG
+    title: 6 dialogs on red and yellow 2 (acrylic -  29.7 x 21 cm)                
 ---
