@@ -6,4 +6,4 @@
 	url = https://github.com/hugomods/icons
 [submodule "themes/gallery"]
 	path = themes/gallery
-	url = https://github.com/nicokaiser/hugo-theme-gallery.git
+	url = https://github.com/grogdj/maryland-supreme-gallery.git
